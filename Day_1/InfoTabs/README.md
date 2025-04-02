@@ -15,3 +15,6 @@ This website provides diverse information across multiple tabs, allowing users t
 
  - HTML, CSS, JavaScript, React
 
+# Website Look
+
+![Info_tab](https://github.com/user-attachments/assets/e6ec9c2e-6c41-4a12-8fb7-98dee896f5a1)
