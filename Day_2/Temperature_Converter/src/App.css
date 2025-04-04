@@ -1,0 +1,49 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Container */
+.container {
+  text-align: center;
+  font-family: sans-serif;
+  display: flex;
+  flex-direction: column; 
+  align-items: center; 
+  gap: 1.5rem; 
+}
+
+/* Heading  */
+h1 {
+  margin: 0;
+  font-size: 2rem;
+}
+
+/* Input group  */
+.input-group {
+  margin: 0.5rem 0;
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+}
+
+/* Labels */
+label {
+  margin-bottom: 0.5rem;
+  font-weight: bold;
+}
+
+/* Input fields */
+input[type="number"] {
+  padding: 0.5rem;
+  font-size: 1rem;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  width: 100%;
+  text-align: center;
+}
