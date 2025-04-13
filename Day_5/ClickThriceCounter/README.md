@@ -14,6 +14,7 @@
   
 ## 📸 Website Look
 
-![counter](https://github.com/user-attachments/assets/bcd2b55c-e557-42e6-bb0b-1231755e5053)
+![counter](https://github.com/user-attachments/assets/4efac318-b56e-48a4-be5e-24da6944a902)
+
 
 
