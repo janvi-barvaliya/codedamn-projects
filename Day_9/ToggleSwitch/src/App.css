@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #000;
+    font-family: sans-serif;
+}
+
+#toggle {
+    padding: 15px 50px;
+    border-radius: 5px;
+    font-size: 18px;
+    cursor: pointer;
+    transition: background 0.3s ease, box-shadow 0.3s ease;
+    border: 1px solid white;
+}
+
+#toggle.on {
+    background: linear-gradient(135deg, #5e3f8d, #b068a1);
+    color: white;
+}
+
+#toggle.off {
+    background: linear-gradient(135deg, #6a82fb, #fc5c7d);
+    color: black;
+}
+
+#toggle:hover {
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.2);
+    opacity: 0.95;
+}
